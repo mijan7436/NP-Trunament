@@ -1,0 +1,6 @@
+{
+  "name": "NP Tournament BD - Esports & Admin",
+  "description": "NP TOURNAMENT BD - Official Free Fire Esports Tournament Platform & Realtime Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
